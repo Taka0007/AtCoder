@@ -1,9 +1,3 @@
-/*
-    author: Taka007
-
-    2021.04.11 start
-*/
-
 #define _GLIBCXX_DEBUG
 #include<bits/stdc++.h>
 #include<iostream>
@@ -11,9 +5,6 @@
 #include<algorithm>
 #include<random>
 using namespace std;
-unsigned long long XX=1000000007;   // 10^9+7
-unsigned long long YY=998244353;    // 998244353
-unsigned long long ZZ=1000000000;  // 10^9
 int GCD(long long m, long long n) //最大公約数
 {
   if(n==0){return m;}
@@ -22,7 +13,6 @@ int GCD(long long m, long long n) //最大公約数
 
 
 int main(){
-
 
 long long N,A,B;
 cin>>N>>A>>B;
@@ -43,7 +33,6 @@ unsigned long long AB_sum = ((num_AB*(num_AB+1))/2)*K;
 ans = allsum - A_sum -B_sum +AB_sum;
 
 cout<<ans<<endl;
-
 
 return 0;
 
