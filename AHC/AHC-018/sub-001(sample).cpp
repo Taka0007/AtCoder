@@ -92,7 +92,7 @@ struct Solver {
         // excavate (y, x) with fixed power until destruction
         //const int power = 100;
         // サンプルを少し変更
-        const  int power = 50;
+        const  int power = 25;
         while (!field.is_broken[y][x]) {
             Response result = field.query(y, x, power);
             if (result == Response::finish) {
