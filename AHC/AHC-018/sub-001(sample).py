@@ -1,7 +1,7 @@
 from enum import Enum
 from typing import List
 import sys
-
+import random
 
 class Pos:
     def __init__(self, y: int, x: int):
@@ -71,7 +71,9 @@ class Solver:
 
     def destruct(self, y: int, x: int):
         # excavate (y, x) with fixed power until destruction
-        power = 100
+        power = random.randint(10,500)
+        #変更
+        #power = 100
         while not self.field.is_broken[y][x]:
             result = self.field.query(y, x, power)
             if result == Response.FINISH:
