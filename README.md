@@ -5,3 +5,4 @@ Algorithm
 
 Heuristic
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/Taka007/rating/heuristic?style=plastic)](https://atcoder.jp/users/Taka007?contestType=heuristic)
+
