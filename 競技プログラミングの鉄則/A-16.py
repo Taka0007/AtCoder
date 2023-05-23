@@ -9,3 +9,6 @@ for i in range(2,N):
     ans[i] = min(ans[i-1]+A[i-1], ans[i-2]+B[i-2])
     
 print(ans[N-1])
+
+
+# 基本的な動的計画法
