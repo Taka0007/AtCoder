@@ -10,8 +10,6 @@ price = 0
 for i in range(N):
     try:
         price += P[D.index(C[i]) + 1]
-        
     except ValueError:
         price += P[0]
-
 print(price)
