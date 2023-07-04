@@ -1,4 +1,4 @@
-AtCoder-Beginners-Selectionの正答コードを集めたディレクトリ
+[AtCoder-Beginners-Selection](https://atcoder.jp/contests/abs)の正答コードを集めたディレクトリ
 （いつかは解説も書きたい）
 
 【正答コード】  <br>
