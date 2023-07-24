@@ -5,5 +5,11 @@ import scipy
 
 
 
-
+# input
+#-----------------------
+S = input()
+a = int(input())
+a,b = map(int,input().split())
+num_list = list(map(int,input().split()))
+# -----------------------
 
