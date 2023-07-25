@@ -10,3 +10,4 @@ Heuristic
 ## テンプレ置き場
 - C++:https://github.com/Taka0007/AtCoder/blob/main/0-Template%26Library/C%2B%2B/temple.cpp
 - Python:https://github.com/Taka0007/AtCoder/blob/main/0-Template%26Library/Python/temple.py
+- fortran:https://github.com/Taka0007/AtCoder/blob/main/0-Template%26Library/Fortran/temple.f95
