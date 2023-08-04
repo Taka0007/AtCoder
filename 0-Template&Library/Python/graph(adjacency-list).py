@@ -5,7 +5,6 @@ for i in range(M):
     a, b = map(int, input().split())
     num.append((a, b))
 
-# グラフを構築
 for a, b in num:
     graph[a].add(b)
     graph[b].add(a)
