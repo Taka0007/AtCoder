@@ -6,7 +6,7 @@
 
 | 問題番号    | 問題名                | 提出日時 | python | c++ | rust | fortran                 |
 |:-----------:|:--------------------:|:--------:|:------:|:---:|:----:|:-----------------------:|
-| PracticeA   | Welcome to AtCoder   |         |        |     |       | [fortran](ABS/Fortran/ABS-001.f95) |
+| PracticeA   | Welcome to AtCoder   |         |        |     |       | [fortran](Fortran/ABS-001.f95) |
 | ABC086A     | Product              |         |        |     |       |                         |
 | ABC081A     | Placing Marbles      |         |        |     |       |                         |
 | ABC081B     | Shift only           |         |        |     |       |                         |
