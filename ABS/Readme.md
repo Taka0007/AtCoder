@@ -1,15 +1,19 @@
 [AtCoder-Beginners-Selection](https://atcoder.jp/contests/abs)の正答コードを集めたディレクトリ
 （いつかは解説も書きたい）
 
-【正答コード】  <br>
-[Welcome to AtCoder](https://github.com/Taka0007/AtCoder/blob/main/ABS/Python/ABS-001.py)   <br>
-[Product]    <br>
-[Placing Marbles]    <br>
-[Shift only]      <br>
-[Coins]         <br>
-[Some Sums]      <br>
-[Card Game for Two]      <br>
-[Kagami Mochi]      <br>
-[Otoshidama]     <br>
-[白昼夢]      <br>
-[Traveling]    <br>
+## 解答状況
+
+
+| 問題番号 | 問題名 | 提出日時 | python | c++ | rust | fortran |
+|:-------:|:------:|:--------:|:------:|:---:|:----:|:-------:|
+|  PracticeA    | Welcome to AtCoder  |         |       |      |         |
+|  ABC086A    | Product  |         |       |      |         |
+|  ABC081A    | Placing Marbles  |         |       |      |         |
+|  ABC081B    | Shift only  |         |       |      |         |
+|  ABC087B    | Coins  |         |       |      |         |
+|  ABC083B    | Some Sums  |         |       |      |         |
+|  ABC088B    | Card Game for Two  |         |       |      |         |
+|  ABC085B    | Kagami Mochi  |         |       |      |         |
+|  ABC085C    | Otoshidama  |         |       |      |         |
+|  ABC049C    | 白昼夢  |         |       |      |         |
+|  ABC086C    | Traveling  |         |       |      |         |
