@@ -1,5 +1,5 @@
 # Problem link: https://atcoder.jp/contests/abc328/tasks/abc328_d
-# Submit link: https://atcoder.jp/contests/abc328/submissions/17100086
+# Submit link: 
 
 # import
 from collections import deque
