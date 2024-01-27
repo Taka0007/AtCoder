@@ -1,5 +1,5 @@
 # Pronlem: https://atcoder.jp/contests/abc130/tasks/abc130_b
-# Submission:
+# Submission: https://atcoder.jp/contests/abc130/submissions/49690267
 
 # input
 N,X = map(int,input().split())
