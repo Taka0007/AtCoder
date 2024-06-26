@@ -1,6 +1,6 @@
 ## 解答状況
 
-| 問題番号 | 問題名 | 提出日時 | python | c++ | rust | fortran |
+| 問題番号 | 問題名 | 提出日時 | Python | C++ | Rust | Fortran |
 |:---------:|:------:|:--------:|:------:|:---:|:----:|:-------:|
 |  A01    | The First Problem |         |       |      |         |
 |  A02    | Linear Search |         |       |      |         |
