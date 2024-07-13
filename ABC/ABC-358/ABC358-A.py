@@ -1,5 +1,5 @@
 # Problem link    : https://atcoder.jp/contests/abc358/tasks/abc358_a
-# Submission link : hhttps://atcoder.jp/contests/abc358/submissions/54620044
+# Submission link : https://atcoder.jp/contests/abc358/submissions/54620044
 
 # input
 S,T = map(str,input().split())
