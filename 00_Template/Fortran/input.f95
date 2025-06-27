@@ -1,4 +1,4 @@
-Program Answer
+Program Atcoder
 Implicit None
  
 INTEGER I,J,ans
@@ -8,4 +8,4 @@ ans = I-J
 
 PRINT "(I0)" , ans
 
-END Program Answer
+END Program Atcoder
